@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Sujit Barman
 
+LinkedIn Badge Twitter Badge Blog Badge
+
 ## About Me
 I am a passionate Full-Stack Developer with 2 years of experience, specializing in MERN (MongoDB, Express.js, React, Node.js) stack. I love turning ideas into powerful and intuitive software solutions.
 
