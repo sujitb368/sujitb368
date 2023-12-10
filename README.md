@@ -1,34 +1,37 @@
 <div id="header" align="center">
-  <h2> Hi 👋 I'm Sudheer Jonna.</h2>
+  <h2> Hi 👋 I'm Sujit Barman.</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sudheer-jonna-b9009142/">
+    <a href="https://www.linkedin.com/in/sujit-barman-1a6a01204/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/SudheerJonna">
+<!--     <a href="https://twitter.com/sujitb368onna">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.sudheerjonna.com">
+    <a href="https://www.sujitb368onna.com">
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
-    </a>
+    </a> -->
   </div>
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
-- I’m working as a Senior IT consultant and building large scale web applications.
-- Authoring and blogging about emerging technologies.
-- Share knowledge through meetups and twitter.
+I am a passionate Full-Stack Developer with 2 years of experience, specializing in MERN (MongoDB, Express.js, React, Node.js) stack. I love turning ideas into powerful and intuitive software solutions.
+
+### Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Angular Bootstrap, jQuery, 
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySql
+- **Other Technologies:** Git, RESTful APIs, JWT, Joi
 
 #### :fire: My Stats :
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sujitb368&theme=dark&background=000000)](https://git.io/streak-stats) 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujitb368&layout=compact&theme=light)](https://github.com/sujitb368/github-readme-stats) -->
 
-<a href="https://github.com/sudheerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
+<a href="https://github.com/sujitb368">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujitb368&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
 </a>
-<a href="https://github.com/sudheerj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+<a href="https://github.com/sujitb368">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitb368&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
@@ -49,6 +52,3 @@ I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech e
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-<!--- #### :writing_hand: Blog Posts :
-**WebSite:** [Sudheerjonna.com](https://sudheerjonna.com) -->
